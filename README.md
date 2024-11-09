@@ -1,5 +1,3 @@
-# cs2-cfgs
-my cfgs for cs2
 
 # How to use a cfg (config)
 CS2 configs should be placed under ‘Steam’ -> ‘steamapps’ -> ‘common’ -> ‘Counter-Strike: Global Offensive‘ -> ‘game’ -> ‘csgo’ -> ‘cfg’
